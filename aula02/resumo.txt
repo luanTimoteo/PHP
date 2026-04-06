@@ -1,0 +1,8 @@
+Nessa aula eu aprendi a trabalhar melhor com arrays em PHP.
+
+- Arrays multidimensionais (array dentro de array)
+- Como acessar vários níveis tipo [0]['nome']
+- Estruturar dados mais reais, como clientes com telefone
+- Organização de dados usando chave e valor
+
+Também entendi melhor como manipular e acessar informações específicas dentro de estruturas mais complexas.
