@@ -1,0 +1,24 @@
+Nessa aula eu aprendi sobre operadores no PHP e como usar eles na prática.
+
+Comecei vendo os operadores aritméticos, como soma (+), subtração (-), multiplicação (*), divisão (/), resto (%) e potência (**). Também testei fazer conta direto no echo.
+
+Depois usei concatenação com o ponto (.) pra juntar textos e variáveis, tipo montar uma frase com nome e saudação.
+
+Também pratiquei trabalhar com números usando variáveis, fazendo incremento de duas formas:
+- jeito normal: $a = $a + 1
+- forma mais curta: $a += 1
+
+Aprendi sobre operadores de comparação, que servem pra verificar se algo é verdadeiro ou falso:
+- == para comparar valores
+- === para comparar valor e tipo
+- != para diferente
+- <, >, <=, >=
+
+Usei bastante var_dump() pra ver se o resultado era true ou false.
+
+Por último vi operadores lógicos:
+- AND (&&): todas as condições precisam ser verdadeiras
+- OR (||): pelo menos uma precisa ser verdadeira
+- XOR: apenas uma pode ser verdadeira, não as duas
+
+No geral, essa aula me ajudou a entender melhor como fazer comparações e trabalhar com lógica dentro do PHP.
